@@ -1,6 +1,6 @@
 # Subscription Tracker
 
-🚀 **Live Preview:** [View Live Application](http://localhost:5173/subscription-tracker/)
+🚀 **Live Preview:** [View Live Application](https://mfaiq676.github.io/subscription-tracker/)
 
 A React + Tailwind CSS application for tracking recurring monthly subscriptions,
 built as a trainee project focused on core React and Tailwind fundamentals.
